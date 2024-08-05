@@ -1,0 +1,7 @@
+# 确保所有文本文件使用 LF 行尾符
+* text=auto
+
+# 强制某些文件使用 LF 行尾符
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
